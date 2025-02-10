@@ -1,0 +1,6 @@
+Holaa!!
+Soy Martin y estamos practicando la conexión y uso de git con GitHub.
+Saludos!!
+
+
+También hicimos un cambio de contenido en los archivos y de nombre. En una nueva Branch y buscamos hacer un nuevo commit desde local, hacia el repositorio online.

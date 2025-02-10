@@ -1,3 +1,0 @@
-Holaa!!
-Soy Martin y estamos practicando la conexión y uso de git con GitHub.
-Saludos!!
